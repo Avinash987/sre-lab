@@ -1,0 +1,6 @@
+apple red 3
+banana yellow 5
+apple grenn 2
+cherry red 7
+apple red 1
+banana green 4
